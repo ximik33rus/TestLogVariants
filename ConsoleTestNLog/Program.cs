@@ -16,7 +16,7 @@ namespace ConsoleTestNLog
                 Logger logger = LogManager.GetCurrentClassLogger();
 
             logger.Trace("trace message");
-            logger.Trace("trace message2");
+            logger.Trace("trace message3");
 
                     logger.Debug("debug message");
 
